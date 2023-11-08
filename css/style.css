@@ -1,0 +1,22 @@
+body {
+  background-color: rgb(242, 255, 233);
+  color: rgb(204, 65, 65);
+  font-size: 18px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+.header,
+h2 {
+  text-align: center;
+}
+
+.header {
+  font-size: 48px;
+}
+h2 {
+  font-size: 24px;
+}
+
+li {
+    color: rgb(85, 124, 85);
+}
