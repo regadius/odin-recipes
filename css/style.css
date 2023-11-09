@@ -3,11 +3,23 @@ body {
   color: rgb(204, 65, 65);
   font-size: 18px;
   font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  box-sizing: border-box;
+  max-width: 1000px;
+  margin: 0 auto;
 }
 
 .header,
 h2 {
   text-align: center;
+}
+
+img {
+  display: block;
+  margin: auto;
+  max-width: 1000px;
+  height: auto;
+ 
+  
 }
 
 .header {
