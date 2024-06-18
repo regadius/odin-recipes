@@ -1,0 +1,32 @@
+* {
+  background-color: beige;
+  color: rgb(27, 41, 27);
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h1,
+h2,
+p {
+  text-align: center;
+}
+
+a {
+    text-decoration: none;
+    color: rgb(50, 90, 77);
+}
+a:hover {
+    text-decoration: underline;
+}
+
+.recipes {
+    font-size: 20px;
+}
+
+.ingredients li {
+    color: brown;
+}
+
+.directions li {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(84, 58, 107);
+}

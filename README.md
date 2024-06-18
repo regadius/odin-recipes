@@ -2,4 +2,4 @@
 
 [Live Preview](https://regadius.github.io/odin-recipes)
 
-A simple recipes website using HTML
+A simple recipes website using HTML and CSS
