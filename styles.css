@@ -30,3 +30,17 @@ a:hover {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color: rgb(84, 58, 107);
 }
+.recipes li {
+    list-style-type: none;
+}
+.recipes,
+.ingredients {
+    max-width: 400px;
+    margin: 0 auto;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+    border-radius: 5px;
+}
